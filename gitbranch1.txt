@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is gitbranch1 file
+=======
+this is gitbranch1 file to main
+>>>>>>> gitbranch1
